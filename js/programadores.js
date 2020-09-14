@@ -1,7 +1,8 @@
+document.getElementById('adiciona').addEventListener('click',calcular);
 let h = 0;
 let j = 0;
 let c = 0;
-let 
+
 function calcular(){
     if (linguagens.value == "html"){
         h++;
